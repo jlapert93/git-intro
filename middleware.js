@@ -1,3 +1,3 @@
 const x = "Bonjour";
-
-console.log("x: ", x)
+const y = "Joseph"
+console.log("result: ", x + y)
